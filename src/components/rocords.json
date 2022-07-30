@@ -1,0 +1,91 @@
+[
+    {
+       "id": 1,
+       "title": "Magic Circle",
+       "type": "math",
+       "content": "FIND THE NUMBER OF POINTS IN THE CIRCLE?",
+       "image": "img/que.jpg",
+       "solution": "the solution will be uploaded soon..."
+    },
+    {
+        "id": 2,
+        "title":"lorem" ,
+        "type": "math",
+        "content": "sjdksdfeofe    fkdsfdskflkfdskfdf",
+        "image": "img/que.jpg",
+        "solution": "the solution will be uploaded soon..."
+    },
+    {
+        "id": 3,
+        "title":"lorem" ,
+        "type": "math",
+        "content": "jdfioefejkfefkefnd",
+        "image": "img/que.jpg",
+        "solution": "the solution will be uploaded soon..."
+    },
+    {
+        "id": 4,
+        "title": "lorem",
+        "type": "math",
+        "content": "jdsdjkfndsjfoeifc ksfsd",
+        "image": "img/que.jpg",
+        "solution": "the solution will be uploaded soon..."
+    },
+    {
+        "id": 5,
+        "title": "lorem",
+        "type": "math",
+        "content": "fdjkfdsdlsdlfs",
+        "image": "img/que.jpg",
+        "solution": "the solution will be uploaded soon..."
+    },
+    {
+        "id": 6,
+        "title": "lorem",
+        "type": "math",
+        "content": "fdjkfdsdlsdlfs",
+        "image": "img/que.jpg",
+        "solution": "the solution will be uploaded soon..."
+    },
+    {
+        "id": 7,
+        "title": "lorem",
+        "type": "math",
+        "content": "fdjkfdsdlsdlfs",
+        "image": "img/que.jpg",
+        "solution": "the solution will be uploaded soon..."
+    },
+    {
+        "id": 8,
+        "title": "lorem",
+        "type": "math",
+        "content": "fdjkfdsdlsdlfs",
+        "image": "img/que.jpg",
+        "solution": "the solution will be uploaded soon..."
+    },
+    {
+        "id": 9,
+        "title": "lorem",
+        "type": "picture",
+        "content": "fdjkfdsdlsdlfs",
+        "image": "img/que.jpg",
+        "solution": "the solution will be uploaded soon..."
+    },
+    {
+        "id": 10,
+        "title": "lorem",
+        "type": "math",
+        "content": "fdjkfdsdlsdlfs",
+        "image": "img/que.jpg",
+        "solution": "the solution will be uploaded soon..."
+    },
+    {
+        "id": 11,
+        "title": "lorem",
+         "type": "picture",
+        "content": "fdjkfdsdlsdlfs",
+        "image": "img/que.jpg", 
+        "solution": "the solution will be uploaded soon..."
+    }
+
+]
